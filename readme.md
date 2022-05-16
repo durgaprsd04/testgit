@@ -24,7 +24,9 @@ feature 1 all changes
 Feature must be funcion
 #### hllow feature 2
 
+<<<<<<< HEAD
 #####All the changes for feature 2
+=======
 
 
 
@@ -62,3 +64,7 @@ Feature must be funcion
 
 
 Another set of changes for 2
+=======
+Another test change for feature 1
+
+##### All the changes for feature 2
