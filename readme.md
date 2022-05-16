@@ -31,3 +31,5 @@ Feature must be funcion
 
 Another test change for feature 1
 
+=======
+##### All the changes for feature 2
