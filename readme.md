@@ -1,25 +1,12 @@
 # hello world 
-helo world
+
 ## Feature 1 has so  many stuff added
+### Feature 1 has so less stuff added
 
-### Feature 1 has so less sub heading
-
-#### new feature 2 changes 
+## hello world 
 Test branch changes 
-##### Another heading
+## hello world 
 Feature 2 has so many changges
-###### alligning stuff 
-
-
-
-
-
-
-
-
-###### feature 1 chagnes
-feature 1 all changes
-=======
 ### hello world 3
 Feature must be funcion
 #### hllow feature 2
