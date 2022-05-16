@@ -19,3 +19,7 @@ Feature 2 has so many changges
 
 ###### feature 1 chagnes
 feature 1 all changes
+=======
+### hello world 3
+Feature must be funcion
+#### hllow feature 2
