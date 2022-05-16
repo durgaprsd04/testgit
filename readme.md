@@ -24,11 +24,9 @@ feature 1 all changes
 Feature must be funcion
 #### hllow feature 2
 
-<<<<<<< HEAD
 #####All the changes for feature 2
-=======
 
-
+last time changes
 
 
 
